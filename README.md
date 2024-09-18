@@ -5,13 +5,13 @@
 
 ## SKILLS
 
-### Data Analytics
+### :chart_with_upwards_trend: Data Analytics
 Python | SQL | PostgreSQL | ETL & Data Pipelines | Data Analysis & Visualisation | Tableau | Plotly | Machine Learning
 
-### Account Management & Partner Operations
+### :handshake: Account Management & Partner Operations
 Project Management | Problem Solving | Communication | Negotiations | Innovation | JIRA  
 
-### Multilingual Proficiency 
-Polish - native | English - C2 | German - B2 | Chinese - B1 
+### :globe_with_meridians: Multilingual Proficiency 
+:PL: Polish - native | :US: English - C2 | :DE: German - B2 | :CN: Chinese - B1 
 
 ## PROJECTS
